@@ -26,7 +26,7 @@ Git & GitHub: Version control
 
 📈 Project Steps**
 
-1. Load Dataset in Python**
+1. Load Dataset in Python
 
 Imported dataset using `pandas.read_csv()`
 Performed shape, datatype, null value, and summary checks
@@ -89,12 +89,12 @@ Recommendations
 
 
 
-Dashboard Preview**
+Dashboard Preview
 
-(Add a screenshot here once ready)*
+(Add a screenshot here once ready)
 
 
-📁 Project Structure**
+📁 Project Structure
 
 ```
 📦 Data-Analytics-Project
@@ -110,7 +110,7 @@ Dashboard Preview**
 
 ---
 
-🚀 How to Run the Project**
+🚀 How to Run the Project
 
 1. Clone Repository**
 
@@ -119,31 +119,31 @@ git clone <repo-url>
 cd Data-Analytics-Project
 ```
 
-2. Install Python Dependencies**
+2. Install Python Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-3. Run Jupyter Notebook**
+3. Run Jupyter Notebook
 
 ```bash
 jupyter notebook
 ```
 
-4. Execute SQL Scripts**
+4. Execute SQL Scripts
 AImport cleaned dataset into SQL database (PostgreSQL/MySQL/SQL Server)
 Run queries from the `sql` folder
 
-5. View Power BI Dashboard**
+5. View Power BI Dashboard
 
 Open `.pbix` file inside the Power BI directory
 
-6. Check Reports & Presentation**
+6. Check Reports & Presentation
 Reports in `/reports`
 Final Gamma presentation in `/presentation`
 
 
- Results & Key Insights**
+ Results & Key Insights
 
  Identified customer behavior trends
  Visualized KPIs and revenue metrics
@@ -154,7 +154,7 @@ Showed the effect of discounts and subscription
 ---
 
 If you want, I can also:
-Generate a requirements.txt**
-Add sample EDA Python code**
-Add a short project description for GitHub/LinkedIn**
+Generate a requirements.txt
+Add sample EDA Python code
+Add a short project description for GitHub/LinkedIn
 Just tell me!
